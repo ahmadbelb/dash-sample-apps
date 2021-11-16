@@ -1,0 +1,103 @@
+﻿code,title
+102,Werkzeugwechsel
+105,Einrichten/Rüsten
+110,Siebwechsel
+111,Kopfwechsel
+112,Materialwechsel
+113,Materialwechsel
+114,Anlage heizen
+115,Fass-/Kesselwechsel
+116,Filterwechsel
+117,Anfahr. n.Wkz.Probl
+118,WZ-Wechs.m.Kaltk/ITM
+119,Anfahren Maßprobleme
+120,Anfahren Auftrag
+121,Konditionieren
+122,Teststück bestrahlen
+123,Rüsten.m.Zellenreini
+124,Rüsten.o.Zellenreini
+125,Zugmat. fahren
+126,Anfah Spulwe/FW/Spli
+127,Anfahren n.Mat.Probl
+128,Anfahren n.Störung
+129,Anfahr.n.Betr.Ruhe
+130,Spulenwechsel/Splice
+131,FW-Wechsel
+132,Nachstellen/Nachzent
+133,Werkzeugreinigung
+134,Spulenw.+WZ+Infeed
+135,Zusätzl. Rüsten
+136,Kopfreinigung
+137,Düsen durchspritzen
+138,Entlüften
+200,Produktion
+201,Prod.o.Schnittzähler
+202,Vorverpacken
+210,Versuch / Test
+212, WZ-Schaden
+219,Kurzzeitstörung(HNZ)
+301,TPM/5S+1  Maßnahmen
+302,Nacharbeit
+303,Wartung/Kalibrierung
+304,Kein Auftrag
+305,Stillst.n.Strg.Wartg
+306,Maschinenreinigung
+307,Waschen/Entgraten
+308,geplanter Stillstand
+310, Maschinenstörung
+321,Beide FW voll
+322,Warten auf Test
+331,Anlage steht/CLruest
+340,Störg.el/pneum/mech
+341,Störung Maschine
+342,Störung Werkzeug
+344,Störung Dosieranlage
+345,Störung Peripherie
+346,Störung Kaltkanal
+347,Störung na. Umbauten
+348,Stör.Kühlw/Dampf etc
+349,Stör.Materialversorg
+350,Reparatur durch Inst
+351,geplante Reparatur
+380,Sonstiges
+400,Material fehlt kompl
+401,Material zu wenig
+402,Material falsch
+403,Material defekt
+404,Hilfsstoffe fehlen
+405,Spulensuche
+406,warten auf Material
+407,Spulen/Boxen fehlen
+408,Daten fehlen
+409,Peripherie fehlt
+415,Fehlbedienung
+500,kein Personal
+505,kein Pers.Inline Cut
+510,kein Pers.Ausbildung
+520,Besprechung/Schulung
+530,Pers.Einsatz/Flexpoo
+540,kein Strahlenschutz
+550,kein Werkzeug
+560,Werkzeugschaden
+600,Qualitätsstop
+601,Operator Inspection
+602,Setup Inspection
+603,Line Inspection
+604,Labo Inspection
+610,OP-Qualitätskontr.
+997,autom. Prod.Start
+998,Betriebsr./kein Betr
+999,Pause/Schichtpause
+1000,Mengenerfassung
+2200,Anlage OK
+2341,Pol. Filterw. nötig
+2342,Kondensat.VOC nötig
+2343,Kondensat.H2O nötig
+2344,Kamin Abluft krit.
+2501,Silo 1 (LDPE) aktiv
+2502,Silo 2 (HDPE) aktiv
+2503,Silo 3  (LDPE) aktiv
+2504,Silo 4 (HDPE) aktiv
+2601,FW abwickeln
+20000,KEINE SCHICHT
+30000,NICHT ZUGEORDNET
